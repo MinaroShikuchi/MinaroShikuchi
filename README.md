@@ -1,8 +1,6 @@
-### Hi there 👋
+<!-- ![](https://komarev.com/ghpvc/?username=MinaroShikuchi&color=green) -->
 
-![](https://komarev.com/ghpvc/?username=MinaroShikuchi&color=green)
-
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaroShikuchi&show_icons=true&theme=radical)
+![Minaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaroShikuchi&show_icons=true&theme=radical)
 
 <!--
 **MinaroShikuchi/MinaroShikuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
