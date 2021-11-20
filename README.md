@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=MinaroShikuchi&color=green)
+
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaroShikuchi&show_icons=true&theme=radical)
 
 <!--
